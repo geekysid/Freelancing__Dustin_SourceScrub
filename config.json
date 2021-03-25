@@ -1,0 +1,8 @@
+{
+    "starting_pont": "https://identity.sourcescrub.com/Account/Login",
+    "path_to_chromedriver": "/Users/crystalimage/Documents/Python/Freelancing/chromedriver",
+    "sleep_time": [
+        5,
+        6
+    ]
+}
